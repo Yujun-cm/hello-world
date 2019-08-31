@@ -3,5 +3,6 @@
 test1
 test2
 test3
-delete
+del
 test4
+test45
